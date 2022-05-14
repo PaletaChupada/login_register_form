@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     color: white;
-    font-family: "Poppins", sans-serif;
+    font-family: "Roboto Slab", sans-serif;
 }
 
 body{
@@ -28,3 +30,5 @@ body{
     padding: 65px 40px 20px 40px;
     box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.505), -10px -10px 20px rgba(0, 0, 0, 0.361);
 }
+
+
